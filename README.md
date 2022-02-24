@@ -2,7 +2,7 @@
 
 ## [16,21,11,8,12,22] 
 
-`Soru` Yukarıdaki dizinin merge sort türüne göre aşamalarını yazınız.
+`Soru` Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 | MERGE SORT |
 | :----------: |
